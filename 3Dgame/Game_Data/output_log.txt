@@ -1,0 +1,128 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 600 (ID=0x3185)
+    Vendor:   Intel
+    VRAM:     1105 MB
+    Driver:   27.20.100.8681
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Abid\Downloads\Tufayel_Mridul\Tufayel_Mridul\3Dgame\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Abid\Downloads\Tufayel_Mridul\Tufayel_Mridul\3Dgame\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Abid\Downloads\Tufayel_Mridul\Tufayel_Mridul\3Dgame\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Abid\Downloads\Tufayel_Mridul\Tufayel_Mridul\3Dgame\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Abid\Downloads\Tufayel_Mridul\Tufayel_Mridul\3Dgame\Game_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Abid\Downloads\Tufayel_Mridul\Tufayel_Mridul\3Dgame\Game_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Abid\Downloads\Tufayel_Mridul\Tufayel_Mridul\3Dgame\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Abid\Downloads\Tufayel_Mridul\Tufayel_Mridul\3Dgame\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Abid\Downloads\Tufayel_Mridul\Tufayel_Mridul\3Dgame\Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Abid\Downloads\Tufayel_Mridul\Tufayel_Mridul\3Dgame\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+Platform assembly: C:\Users\Abid\Downloads\Tufayel_Mridul\Tufayel_Mridul\3Dgame\Game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Abid\Downloads\Tufayel_Mridul\Tufayel_Mridul\3Dgame\Game_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.199000 ms
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2104 -> priority: 1 
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour (Game Object 'ball') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.000300 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 657.
+Total: 0.795400 ms (FindLiveObjects: 0.133500 ms CreateObjectMapping: 0.050200 ms MarkObjects: 0.582400 ms  DeleteObjects: 0.027500 ms)
+
+GfxDevice: creating device client; threaded=1
+Platform assembly: C:\Users\Abid\Downloads\Tufayel_Mridul\Tufayel_Mridul\3Dgame\Game_Data\Managed\Boo.Lang.dll (this message is harmless)
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour (Game Object 'ball') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.258600 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 689.
+Total: 0.754700 ms (FindLiveObjects: 0.126600 ms CreateObjectMapping: 0.045600 ms MarkObjects: 0.563900 ms  DeleteObjects: 0.016700 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour (Game Object 'ball') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.425100 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 689.
+Total: 0.752400 ms (FindLiveObjects: 0.125300 ms CreateObjectMapping: 0.048900 ms MarkObjects: 0.560800 ms  DeleteObjects: 0.015900 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.322900 ms
+
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 332.
+Total: 0.814400 ms (FindLiveObjects: 0.079600 ms CreateObjectMapping: 0.032900 ms MarkObjects: 0.451500 ms  DeleteObjects: 0.248500 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour (Game Object 'ball') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.723000 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 689.
+Total: 1.252300 ms (FindLiveObjects: 0.279200 ms CreateObjectMapping: 0.050300 ms MarkObjects: 0.709900 ms  DeleteObjects: 0.210800 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.434100 ms
+
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 332.
+Total: 0.827400 ms (FindLiveObjects: 0.073900 ms CreateObjectMapping: 0.033600 ms MarkObjects: 0.468400 ms  DeleteObjects: 0.249700 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour (Game Object 'ball') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.736900 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 689.
+Total: 0.749600 ms (FindLiveObjects: 0.129100 ms CreateObjectMapping: 0.046100 ms MarkObjects: 0.547500 ms  DeleteObjects: 0.025300 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.328000 ms
+
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 332.
+Total: 1.473900 ms (FindLiveObjects: 0.106600 ms CreateObjectMapping: 0.033500 ms MarkObjects: 0.956000 ms  DeleteObjects: 0.375500 ms)
+
+Quit!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
